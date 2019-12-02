@@ -1,0 +1,26 @@
+
+.top{background-color: grey;
+width: auto;
+height: 40px;}
+
+img.img2{
+    float: left;
+}
+img.img1{
+    float: right;
+}
+p.p1{
+    font-size: 24;
+}
+div.bottom{
+    background-color: grey;
+    width: auto;
+    height: 50px;
+}
+p.p2{
+    font-size: 28;
+    color: tomato;
+}
+video.v1{
+    
+}
